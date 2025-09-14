@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Day1_Basics
+namespace DayWisePractice.Day1
 {
     class Task1_Student
     {
